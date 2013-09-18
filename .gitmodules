@@ -1,0 +1,6 @@
+[submodule "HTTPFetcher"]
+	path = HTTPFetcher
+	url = git@github.com:ChatSecure/gtm-http-fetcher.git
+[submodule "JSON"]
+	path = JSON
+	url = https://github.com/stig/json-framework.git
